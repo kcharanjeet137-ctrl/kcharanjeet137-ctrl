@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Charanjeet Kaur
 
-<!--
-**kcharanjeet137-ctrl/kcharanjeet137-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+💻 Learning C, Python, DBMS & Web Development
 
-Here are some ideas to get you started:
+🛠️ Skills
+• C
+• Python
+• DBMS
+• Data Structures
+• HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+• Python
+• Web Development
+
+🚀 Projects
+• Portfolio Website
+• C Programs
+• Data Structures Programs
